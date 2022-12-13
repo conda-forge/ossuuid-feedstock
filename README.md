@@ -3,7 +3,7 @@ About ossuuid
 
 Home: ftp://ftp.ossp.org/pkg/lib/uuid/
 
-Package license: GPL
+Package license: MIT
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ossuuid-feedstock/blob/main/LICENSE.txt)
 
